@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scales</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="pentatonic_major">Pentatonic Major</string>
+    <string name="pentatonic_minor">Pentatonic Minor</string>
+    <string name="add_harmonic_and_melodic_to_minor">Add Harmonic/Melodic to Minor</string>
+    <string name="about">About</string>
+    <string name="about_message">Created by Joshua Student for Android App Development class at Touro College.</string>
+</resources>

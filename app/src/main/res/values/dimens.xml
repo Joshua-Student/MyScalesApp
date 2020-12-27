@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">32sp</dimen>
+    <dimen name="button_dimens">100dp</dimen>
+    <dimen name="button_bar_margin">8dp</dimen>
+    <dimen name="board_margin">4dp</dimen>
+    <dimen name="board_top_margin">16dp</dimen>
+    <dimen name="board_bottom_margin">16dp</dimen>
+    <dimen name="button_margin">2dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="button_text_size">10sp</dimen>
+    <dimen name="scale_text_size">13sp</dimen>
+</resources>
